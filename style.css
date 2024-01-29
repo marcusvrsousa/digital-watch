@@ -48,3 +48,18 @@
   font-size: 14px;
   font-weight: 500;
 }
+
+@media screen and (max-width: 420px) {
+  .list {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    gap: 10px;
+    margin-top: 0;
+    transform: rotateY(360deg);
+  }
+
+  .list-items {
+    height: 120px;
+  }
+}
