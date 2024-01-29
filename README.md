@@ -1,4 +1,4 @@
 <h1>A Digital Watch</h1>
-<span>Only with HTML, CSS & JS</span>
-
+<h3>Just using HTML, CSS & JS</h3>
+------------------------------------------------------------------------------
 <img src="preview.png"  height="400px" alt="watch preview">
